@@ -1,7 +1,4 @@
 # blog
 
-vscode: `https://code.visualstudio.com/api/extension-guides/tree-view`
+改文档是记录工作的一些小链接，大家可以借鉴，后期会持续维护
 
-probot: https://probot.github.io/docs/deployment/
-
-https://www.patterns.dev/posts/introduction/
